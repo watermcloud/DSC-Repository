@@ -60,6 +60,5 @@ def getData():
     response_data = response
     return response_data
     
-
 app.run("0.0.0.0", debug=True)
 
