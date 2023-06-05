@@ -1,0 +1,6 @@
+venv
+revaldikey
+revaldikey.pub
+students-repository/*
+.idea
+.virtual_documents
